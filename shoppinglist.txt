@@ -3,3 +3,8 @@ Oranges
 Carrots
 Beetroot
 Mango
+-
+Milk
+Ghee
+Curd
+Buttermilk
