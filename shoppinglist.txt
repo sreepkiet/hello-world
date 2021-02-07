@@ -1,7 +1,5 @@
 Apple
 Oranges
-Bananas
-Cherries
 Carrots
 Beetroot
 Mango
